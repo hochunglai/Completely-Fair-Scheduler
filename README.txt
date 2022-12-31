@@ -1,7 +1,3 @@
-==== Author ====
-Student name: Chung Lai Ho
-Student ID: 101181150
-
 ==== Description ====
 This is to emulate a simplified scheduling policy based on Linux
 Completely Fair Scheduler (CFS) using threads
