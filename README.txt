@@ -5,7 +5,7 @@ Completely Fair Scheduler (CFS) using threads
 ==== Instructions to Use ====
 First Terminal:
 ------------------
-• This terminal is used to run an instance of the ifs program
+• This terminal is used to run an instance of the cfs program
 • Simply enter the command below to run an instance of it 
 ./cfs
 
