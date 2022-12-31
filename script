@@ -1,0 +1,2 @@
+gcc cfs.c -o cfs
+xterm &
